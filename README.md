@@ -5,7 +5,7 @@
 📚 Aprendizado Atual: Atualmente estou aprimorando meus conhecimentos em modelagem preditiva com regressão linear e técnicas de classificação de dados.
 🤝 Colaborações: Estou aberta a colaborar em projetos que conectem tecnologia à saúde mental, especialmente no desenvolvimento de ferramentas e aplicações voltadas para o bem-estar psicológico e monitoramento de saúde mental.
 
-📧 Contato: Você pode entrar em contato comigo pelo e-mail ou através do meu GitHub.
+📧 Contato: Você pode entrar em contato comigo pelo e-mail rosangela.cavalcant@hotmail.com ou através do meu GitHub.
 
 🔎 Pronomes: Ela/Dela
 
